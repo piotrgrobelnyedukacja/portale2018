@@ -9,6 +9,7 @@
 <%--
     This file is an entry point for JavaServer Faces application.
 --%>
+
 <f:view>
     <html>
         <head>
