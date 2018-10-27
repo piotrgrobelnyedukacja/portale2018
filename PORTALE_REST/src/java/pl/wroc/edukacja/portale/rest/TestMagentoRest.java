@@ -54,6 +54,7 @@ public class TestMagentoRest {
         System.out.println("firstname: "+firstname);
         String lastname = jsonNode.get("lastname").asText();
         System.out.println("lastname: "+lastname);
+        
 
     }
 }
